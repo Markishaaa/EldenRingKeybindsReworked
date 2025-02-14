@@ -1,0 +1,5 @@
+build/
+dist/
+local/
+venv/
+start.spec
